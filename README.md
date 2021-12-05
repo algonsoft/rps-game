@@ -1,2 +1,3 @@
 # rps-game
-Implementation of rock paper scissors
+Implementation of a text-based rock paper scissors
+Gameplay is working as intended.
